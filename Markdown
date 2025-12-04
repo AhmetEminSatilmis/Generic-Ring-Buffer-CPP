@@ -34,4 +34,4 @@ if (sensorBuf.Read(val)) {
 }
 
 ## AUTHOR
-Ahmet Emin Satilmis
+Ahmet Emin Satilmis Mathematics Engineering Student at Yıldız Technical University Focus areas: Embedded Systems, C/C++, Real-Time Operating Systems
